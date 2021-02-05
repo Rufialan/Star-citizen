@@ -2,15 +2,16 @@
 
 
 * {
-    box-sizing: border-box;
 
 }
 
 body {
     font-family: 'Russo One', cursive;
-    text-color: #BBE6E4;
+    color: #BBE6E4;
     background-color: #0B132B;
+    box-sizing: border-box;
 }
+
 
 .titre {
     position: relative;
@@ -19,15 +20,22 @@ body {
     font-size: 48px;
     text-align: center;
     z-index: 1000;
-    top: 100px;
-    display: table;
+    top: 60px;
     margin: 0 auto;
 }
 .image-EnTête img {
-    position: absolute;
-    width: 100%;
+    position: relative;
     z-index: 1;
-    left: 0%;
-    top: 51px;
+    width: 100%;
+    height: auto;
+    top: -30px
+}
 
+
+.texte {
+    display: inline-block;
+    border: solid;;
+}
+p {
+    display: block;
 }
