@@ -3,6 +3,8 @@
 
 * {
 
+
+
 }
 
 body {
@@ -12,7 +14,22 @@ body {
     box-sizing: border-box;
 
 }
+.masque  {
+    background-color: white;
+    opacity: 30%;
+    position: relative;
+    top: 120px;
+    z-index: 3;
+    height: 50px;
+    width: 100%;
+}
+header  {
+    overflow: hidden;
+}
 
+.banniere {
+    width: 100%;
+}
 
 .titre {
     position: relative;
@@ -23,7 +40,19 @@ body {
     z-index: 2;
     top: 60px;
     margin: 0 auto;
+    background-color: rgba(255,255,255,0.3);
 }
+
+
+
+.logo-png  {
+    width: 40px;
+    height: auto;
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 12px;
+}
+
 .image-EnTête img {
     position: relative;
     z-index: 1;
@@ -107,7 +136,7 @@ video {
     height: 4px;
     margin-bottom: 5px;
     position: relative;
-    top: 5px;
+    top: 10px;
     background: #BBE6E4;
     border-radius: 3px;
     left: 28px;
