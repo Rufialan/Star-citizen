@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0112055d-566f-48d0-a5aa-0dfa7e26fbb3" name="Default Changelist" comment="Logo chamgement de couleur">
+    <list default="true" id="0112055d-566f-48d0-a5aa-0dfa7e26fbb3" name="Default Changelist" comment="Fin de la page accueil et début de la page Carte">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image/1476107633-space-engine-11-25-2013-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image/1476107633-space-engine-11-25-2013-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main css.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613115120781</updated>
       <workItem from="1613115122876" duration="46000" />
-      <workItem from="1613115181582" duration="9693000" />
+      <workItem from="1613115181582" duration="10080000" />
     </task>
     <task id="LOCAL-00001" summary="Ajouts d'un logo et amélioration de la visibilité du texte">
       <created>1613121519241</created>
@@ -65,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613122091343</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fin de la page accueil et début de la page Carte">
+      <created>1613125369286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613125369286</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +90,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ajouts d'un logo et amélioration de la visibilité du texte" />
     <MESSAGE value="Logo chamgement de couleur" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logo chamgement de couleur" />
+    <MESSAGE value="Fin de la page accueil et début de la page Carte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fin de la page accueil et début de la page Carte" />
   </component>
 </project>
