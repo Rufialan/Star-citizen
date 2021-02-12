@@ -184,12 +184,12 @@ video {
 
 #menu
 {
-    position: absolute;
+    position: fixed;
     width: 200px;
     margin: -100px -10px -10px 0px;
     padding: 50px;
     padding-top: 125px;
-    height: 400px;
+    height: 100%;
     background: #3A506B;
     list-style-type: none;
 
