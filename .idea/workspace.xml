@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0112055d-566f-48d0-a5aa-0dfa7e26fbb3" name="Default Changelist" comment="Texte page carte">
+    <list default="true" id="0112055d-566f-48d0-a5aa-0dfa7e26fbb3" name="Default Changelist" comment="Fin de la page carte">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Studio.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613115120781</updated>
       <workItem from="1613115122876" duration="46000" />
-      <workItem from="1613115181582" duration="11859000" />
+      <workItem from="1613115181582" duration="12573000" />
     </task>
     <task id="LOCAL-00001" summary="Ajouts d'un logo et amélioration de la visibilité du texte">
       <created>1613121519241</created>
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613125778537</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fin de la page carte">
+      <created>1613127551156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613127551156</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +105,7 @@
     <MESSAGE value="Logo chamgement de couleur" />
     <MESSAGE value="Fin de la page accueil et début de la page Carte" />
     <MESSAGE value="Texte page carte" />
-    <option name="LAST_COMMIT_MESSAGE" value="Texte page carte" />
+    <MESSAGE value="Fin de la page carte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fin de la page carte" />
   </component>
 </project>
