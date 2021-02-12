@@ -80,6 +80,13 @@ video {
     border-color: #BBE6E4;
 }
 
+.image img {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: auto;
+}
+
 /* https://codepen.io/erikterwan/pen/EVzeRP */
 
 
