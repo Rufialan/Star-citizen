@@ -42,15 +42,16 @@ header  {
     margin: 0 auto;
     background-color: rgba(255,255,255,0.3);
 }
-
-
-
 .logo-png  {
+    display: inline-block;
     width: 40px;
     height: auto;
-    position: absolute;
-    margin-left: 80%;
-    margin-top: 12px;
+    position: relative;
+    margin-top: 2px;
+}
+
+.main-nav {
+    float: right;
 }
 
 .image-EnTête img {
@@ -62,7 +63,6 @@ header  {
 
 
 }
-
 
 .texte {
     display: inline-block;
@@ -113,7 +113,6 @@ video {
 {
     text-decoration: none;
     color: #BBE6E4;
-
     transition: color 0.3s ease;
 }
 
@@ -143,10 +142,10 @@ video {
     height: 4px;
     margin-bottom: 5px;
     position: relative;
-    top: 10px;
+    top: 3px;
     background: #BBE6E4;
     border-radius: 3px;
-    left: 28px;
+    left: 27px;
     z-index: 2;
 
     transform-origin: 4px 0px;
@@ -222,4 +221,54 @@ video {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+.vignets {
+
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari et Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* sur Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* sur Safari et Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein { /* sur Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
 
