@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="chagment du dans le css (header)">
+    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Réduction des marges">
+      <change afterPath="$PROJECT_DIR$/java/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +50,11 @@
       <updated>1613303981958</updated>
       <workItem from="1613303991033" duration="5000" />
       <workItem from="1613304018075" duration="6832000" />
-      <workItem from="1613482987701" duration="259000" />
+      <workItem from="1613482987701" duration="1700000" />
+      <workItem from="1613486674532" duration="3000" />
+      <workItem from="1613487348368" duration="7000" />
+      <workItem from="1613489952084" duration="630000" />
+      <workItem from="1615878060550" duration="1655000" />
     </task>
     <task id="LOCAL-00001" summary="chagment du dans le css (header)">
       <created>1613319209215</created>
@@ -50,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613319209215</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Réduction des marges">
+      <created>1613483264984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613483264984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chagment du dans le css (header)" />
-    <option name="LAST_COMMIT_MESSAGE" value="chagment du dans le css (header)" />
+    <MESSAGE value="Réduction des marges" />
+    <option name="LAST_COMMIT_MESSAGE" value="Réduction des marges" />
   </component>
 </project>
