@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Indentation">
+    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Liste a puce correction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Studio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vaisseau.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vaisseau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Équipements.html" beforeDir="false" afterPath="$PROJECT_DIR$/Équipements.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <workItem from="1613486674532" duration="3000" />
       <workItem from="1613487348368" duration="7000" />
       <workItem from="1613489952084" duration="630000" />
-      <workItem from="1615878060550" duration="9314000" />
+      <workItem from="1615878060550" duration="9905000" />
     </task>
     <task id="LOCAL-00001" summary="chagment du dans le css (header)">
       <created>1613319209215</created>
@@ -120,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615889070212</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Liste a puce correction">
+      <created>1615889652775</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615889652775</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +149,7 @@
     <MESSAGE value="image" />
     <MESSAGE value="Page équipements" />
     <MESSAGE value="Indentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Indentation" />
+    <MESSAGE value="Liste a puce correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Liste a puce correction" />
   </component>
 </project>
