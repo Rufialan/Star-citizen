@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="image">
-      <change afterPath="$PROJECT_DIR$/Image/9be8cb10fc4ddb027513675826b84307.jpg" afterDir="false" />
+    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Page équipements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Studio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vaisseau.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vaisseau.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Équipements.html" beforeDir="false" afterPath="$PROJECT_DIR$/Équipements.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +62,7 @@
       <workItem from="1613486674532" duration="3000" />
       <workItem from="1613487348368" duration="7000" />
       <workItem from="1613489952084" duration="630000" />
-      <workItem from="1615878060550" duration="5501000" />
+      <workItem from="1615878060550" duration="8822000" />
     </task>
     <task id="LOCAL-00001" summary="chagment du dans le css (header)">
       <created>1613319209215</created>
@@ -103,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615881868315</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Page équipements">
+      <created>1615883624273</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615883624273</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +137,7 @@
     <MESSAGE value="Page carte réglage du menu" />
     <MESSAGE value="Modification visuelle + texte page équipement" />
     <MESSAGE value="image" />
-    <option name="LAST_COMMIT_MESSAGE" value="image" />
+    <MESSAGE value="Page équipements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page équipements" />
   </component>
 </project>
