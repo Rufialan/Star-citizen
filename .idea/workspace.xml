@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Réduction des marges">
-      <change afterPath="$PROJECT_DIR$/java/script.js" afterDir="false" />
+    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Page carte réglage du menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Studio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vaisseau.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vaisseau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Équipements.html" beforeDir="false" afterPath="$PROJECT_DIR$/Équipements.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <workItem from="1613486674532" duration="3000" />
       <workItem from="1613487348368" duration="7000" />
       <workItem from="1613489952084" duration="630000" />
-      <workItem from="1615878060550" duration="1655000" />
+      <workItem from="1615878060550" duration="3534000" />
     </task>
     <task id="LOCAL-00001" summary="chagment du dans le css (header)">
       <created>1613319209215</created>
@@ -70,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613483264984</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Page carte réglage du menu">
+      <created>1615880058123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615880058123</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chagment du dans le css (header)" />
     <MESSAGE value="Réduction des marges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Réduction des marges" />
+    <MESSAGE value="Page carte réglage du menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page carte réglage du menu" />
   </component>
 </project>
