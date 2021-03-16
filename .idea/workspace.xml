@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Page équipements">
+    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Indentation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
@@ -62,7 +62,7 @@
       <workItem from="1613486674532" duration="3000" />
       <workItem from="1613487348368" duration="7000" />
       <workItem from="1613489952084" duration="630000" />
-      <workItem from="1615878060550" duration="8822000" />
+      <workItem from="1615878060550" duration="9314000" />
     </task>
     <task id="LOCAL-00001" summary="chagment du dans le css (header)">
       <created>1613319209215</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615883624273</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Indentation">
+      <created>1615889070212</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615889070212</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +145,7 @@
     <MESSAGE value="Modification visuelle + texte page équipement" />
     <MESSAGE value="image" />
     <MESSAGE value="Page équipements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page équipements" />
+    <MESSAGE value="Indentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Indentation" />
   </component>
 </project>
