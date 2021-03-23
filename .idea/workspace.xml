@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Responsive du menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipements.html" beforeDir="false" afterPath="$PROJECT_DIR$/equipements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/studio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaisseau.html" beforeDir="false" afterPath="$PROJECT_DIR$/vaisseau.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <workItem from="1613487348368" duration="7000" />
       <workItem from="1613489952084" duration="630000" />
       <workItem from="1615878060550" duration="13518000" />
-      <workItem from="1616481569933" duration="16000000" />
+      <workItem from="1616481569933" duration="16330000" />
     </task>
     <task id="LOCAL-00001" summary="chagment du dans le css (header)">
       <created>1613319209215</created>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616495252814</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Responsive du menu">
+      <created>1616501541120</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616501541120</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
