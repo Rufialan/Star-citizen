@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Liste a puce correction">
+    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Correction des fautes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Studio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main css.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,8 @@
       <workItem from="1613486674532" duration="3000" />
       <workItem from="1613487348368" duration="7000" />
       <workItem from="1613489952084" duration="630000" />
-      <workItem from="1615878060550" duration="9905000" />
+      <workItem from="1615878060550" duration="13518000" />
+      <workItem from="1616481569933" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="chagment du dans le css (header)">
       <created>1613319209215</created>
@@ -123,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615889652775</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Correction des fautes">
+      <created>1615890172831</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615890172831</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +160,7 @@
     <MESSAGE value="Page équipements" />
     <MESSAGE value="Indentation" />
     <MESSAGE value="Liste a puce correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Liste a puce correction" />
+    <MESSAGE value="Correction des fautes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correction des fautes" />
   </component>
 </project>
