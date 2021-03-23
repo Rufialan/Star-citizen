@@ -1,7 +1,21 @@
 @media screen and (min-width: 660px){
+    #menuToggle {
+        display: none;
 
+    }
+    .me {
+        background-color: red;
+    }
 
+    .btn {
+        display: block;
+    }
+}
 
+@media screen and (min-width: 830px){
 
 
 }
+
+
+

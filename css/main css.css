@@ -2,8 +2,11 @@
 
 
 * {
-
-
+    -webkit-transition-property: all;
+    -webkit-transition-duration: .5s;
+    -moz-transition-timing-function: cubic-bezier(100,50,21,6);
+    -moz-transition-property: all;
+    -moz-transition-timing-function: cubic-bezier(100,50,21,6);
 
 }
 
@@ -95,9 +98,23 @@ video {
 /* https://codepen.io/erikterwan/pen/EVzeRP */
 
 
+.btn{
+    display: none;
+    color: #BBE6E4;
+    background: #3A506B;
+    padding:10px 20px;
+    font-size:12px;
+    text-decoration:none;
+    letter-spacing:2px;
+    text-transform:uppercase;
+}
 
-
-
+.btn:hover{
+    border:none;
+    background:#FFFFFF;
+    padding:20px 20px; #000;
+    color: #0B132B;
+}
 
 
 
