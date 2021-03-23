@@ -8,7 +8,7 @@
     }
 
     .btn {
-        display: block;
+        display: inline-block;
     }
 }
 
