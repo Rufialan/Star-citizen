@@ -73,6 +73,8 @@ header  {
 }
 p {
     display: block;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 video {
     top: 5px;

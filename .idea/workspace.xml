@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Correction des fautes">
+    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Tableau">
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/Carte.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Studio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vaisseau.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vaisseau.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Équipements.html" beforeDir="false" afterPath="$PROJECT_DIR$/Équipements.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +46,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rufiala\WebstormProjects\Star-citizen\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rufiala\WebstormProjects\Star-citizen\Image" />
     </key>
@@ -61,7 +68,7 @@
       <workItem from="1613487348368" duration="7000" />
       <workItem from="1613489952084" duration="630000" />
       <workItem from="1615878060550" duration="13518000" />
-      <workItem from="1616481569933" duration="3318000" />
+      <workItem from="1616481569933" duration="4827000" />
     </task>
     <task id="LOCAL-00001" summary="chagment du dans le css (header)">
       <created>1613319209215</created>
@@ -133,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615890172831</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tableau">
+      <created>1616484950971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616484950971</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +175,7 @@
     <MESSAGE value="Indentation" />
     <MESSAGE value="Liste a puce correction" />
     <MESSAGE value="Correction des fautes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction des fautes" />
+    <MESSAGE value="Tableau" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tableau" />
   </component>
 </project>
