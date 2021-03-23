@@ -98,6 +98,10 @@ video {
 /* https://codepen.io/erikterwan/pen/EVzeRP */
 
 
+.space {
+    padding: 20px;
+}
+
 .btn{
     display: none;
     color: #BBE6E4;
@@ -113,6 +117,7 @@ video {
     border:none;
     background:#FFFFFF;
     padding:20px 20px; #000;
+    margin: 0;
     color: #0B132B;
 }
 

@@ -1,10 +1,11 @@
 @media screen and (min-width: 660px){
+
+}
+
+@media screen and (min-width: 880px){
     #menuToggle {
         display: none;
 
-    }
-    .me {
-        background-color: red;
     }
 
     .btn {
@@ -12,9 +13,59 @@
     }
 }
 
-@media screen and (min-width: 830px){
+@media screen and (min-width: 1020px){
 
+    .btn{
+        padding:10px 30px;
+    }
 
+    .btn:hover{
+        padding:40px 30px;
+    }
+}
+
+@media screen and (min-width: 1160px){
+
+    .btn{
+        padding:10px 40px;
+    }
+
+    .btn:hover{
+        padding:40px 40px;
+    }
+}
+
+@media screen and (min-width: 1300px){
+
+    .btn{
+        padding:10px 50px;
+    }
+
+    .btn:hover{
+        padding:40px 50px;
+    }
+}
+
+@media screen and (min-width: 1440px){
+
+    .btn{
+        padding:10px 60px;
+    }
+
+    .btn:hover{
+        padding:40px 60px;
+    }
+}
+
+@media screen and (min-width: 1580px){
+
+    .btn{
+        padding:10px 70px;
+    }
+
+    .btn:hover{
+        padding:40px 70px;
+    }
 }
 
 
