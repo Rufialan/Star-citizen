@@ -6,7 +6,7 @@
     -webkit-transition-duration: .5s;
     -moz-transition-timing-function: cubic-bezier(100,50,21,6);
     -moz-transition-property: all;
-    -moz-transition-timing-function: cubic-bezier(100,50,21,6);
+
 
 }
 
@@ -116,7 +116,7 @@ video {
 .btn:hover{
     border:none;
     background:#FFFFFF;
-    padding:20px 20px; #000;
+    padding:20px;
     margin: 0;
     color: #0B132B;
 }

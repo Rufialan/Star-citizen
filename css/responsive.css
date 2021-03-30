@@ -16,7 +16,9 @@
     }
 }
 
+
 @media screen and (min-width: 1020px){
+
 
     .btn{
         padding:10px 30px;
@@ -34,12 +36,16 @@
     }
 
     .btn:hover{
-        padding:40px 40px;
+        padding:20px 40px;
     }
     body {
         font-size: 28px;
     }
 
+
+    .image {
+
+    }
 }
 
 @media screen and (min-width: 1300px){
@@ -49,7 +55,7 @@
     }
 
     .btn:hover{
-        padding:40px 50px;
+        padding:25px 50px;
     }
 }
 
@@ -60,20 +66,24 @@
     }
 
     .btn:hover{
-        padding:40px 60px;
+        padding:25px 60px;
     }
 }
 
 @media screen and (min-width: 1580px){
 
     .btn{
-        padding:10px 70px;
+        padding:25px 70px;
     }
 
     .btn:hover{
-        padding:40px 70px;
+        padding:30px 70px;
     }
+
+    body {
     font-size: 38px;
+    }
+
 }
 
 
