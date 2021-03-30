@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="Responsive du menu">
+    <list default="true" id="cd81bfab-f78e-4ba7-a8ec-4729f6ead0f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carte.html" beforeDir="false" afterPath="$PROJECT_DIR$/carte.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/equipements.html" beforeDir="false" afterPath="$PROJECT_DIR$/equipements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studio.html" beforeDir="false" afterPath="$PROJECT_DIR$/studio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vaisseau.html" beforeDir="false" afterPath="$PROJECT_DIR$/vaisseau.html" afterDir="false" />
     </list>
@@ -13,23 +16,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1oTI5IDKjc6VS7iRBMRrElv0osO" />
+  <component name="ProjectId" id="1qC8ArrLLnMaWK5FpaqBDKV0umX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -38,7 +33,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020-sfa-101-exe-media-queries-Rufialan" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,175 +42,21 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rufiala\WebstormProjects\Star-citizen\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rufiala\WebstormProjects\Star-citizen\Image" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="36023713-129d-4c59-b94c-850307d42596" name="Default Changelist" comment="" />
-      <created>1613303981958</created>
+      <changelist id="cd81bfab-f78e-4ba7-a8ec-4729f6ead0f7" name="Default Changelist" comment="" />
+      <created>1616572088234</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613303981958</updated>
-      <workItem from="1613303991033" duration="5000" />
-      <workItem from="1613304018075" duration="6832000" />
-      <workItem from="1613482987701" duration="1700000" />
-      <workItem from="1613486674532" duration="3000" />
-      <workItem from="1613487348368" duration="7000" />
-      <workItem from="1613489952084" duration="630000" />
-      <workItem from="1615878060550" duration="13518000" />
-      <workItem from="1616481569933" duration="16330000" />
+      <updated>1616572088234</updated>
+      <workItem from="1616572092533" duration="379000" />
+      <workItem from="1616572681276" duration="615000" />
+      <workItem from="1617082693639" duration="2075000" />
     </task>
-    <task id="LOCAL-00001" summary="chagment du dans le css (header)">
-      <created>1613319209215</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1613319209215</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Réduction des marges">
-      <created>1613483264984</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1613483264984</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Page carte réglage du menu">
-      <created>1615880058123</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1615880058123</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Modification visuelle + texte page équipement">
-      <created>1615881623793</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1615881623793</updated>
-    </task>
-    <task id="LOCAL-00005" summary="image">
-      <created>1615881804865</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1615881804865</updated>
-    </task>
-    <task id="LOCAL-00006" summary="image">
-      <created>1615881868315</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1615881868315</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Page équipements">
-      <created>1615883624273</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1615883624273</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Indentation">
-      <created>1615889070212</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1615889070212</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Liste a puce correction">
-      <created>1615889652775</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1615889652775</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Correction des fautes">
-      <created>1615890172831</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1615890172831</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Tableau">
-      <created>1616484950971</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1616484950971</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Nomalize">
-      <created>1616486574357</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1616486574357</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Responsive">
-      <created>1616486878087</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1616486878087</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Responsive">
-      <created>1616493516769</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1616493516769</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Responsive du menu">
-      <created>1616495252814</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1616495252814</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Responsive du menu">
-      <created>1616501541120</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1616501541120</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="chagment du dans le css (header)" />
-    <MESSAGE value="Réduction des marges" />
-    <MESSAGE value="Page carte réglage du menu" />
-    <MESSAGE value="Modification visuelle + texte page équipement" />
-    <MESSAGE value="image" />
-    <MESSAGE value="Page équipements" />
-    <MESSAGE value="Indentation" />
-    <MESSAGE value="Liste a puce correction" />
-    <MESSAGE value="Correction des fautes" />
-    <MESSAGE value="Tableau" />
-    <MESSAGE value="Nomalize" />
-    <MESSAGE value="Responsive" />
-    <MESSAGE value="Responsive du menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Responsive du menu" />
   </component>
 </project>

@@ -11,6 +11,9 @@
     .btn {
         display: inline-block;
     }
+    body {
+        font-size: 24px;
+    }
 }
 
 @media screen and (min-width: 1020px){
@@ -33,6 +36,10 @@
     .btn:hover{
         padding:40px 40px;
     }
+    body {
+        font-size: 28px;
+    }
+
 }
 
 @media screen and (min-width: 1300px){
@@ -66,6 +73,7 @@
     .btn:hover{
         padding:40px 70px;
     }
+    font-size: 38px;
 }
 
 
